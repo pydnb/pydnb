@@ -27,28 +27,3 @@ Here are some ideas to get you started:
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=欢迎来到我的github;&font=Roboto" />
 
-![Contributions in 3D](/profile-3d-contrib/profile-night-rainbow.svg)
-name: GitHub-Profile-3D-Contrib
-
-on:
-  schedule: # 02:30 IST == 21:00 UTC
-    - cron: "0 21 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    name: generate-github-profile-3d-contrib
-    steps:
-      - uses: actions/checkout@v2
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.0
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
-      - name: Commit & Push
-        run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add -A .
-          git commit -m "generated"
-          git push
