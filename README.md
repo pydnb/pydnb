@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pydnb)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pydnb&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--状态展示：-->
 <img align="center"  src="https://github-readme-stats.vercel.app/api?username=pydnb&show_icons=true&theme=radical"/>
 
 <!--语言使用统计：-->
 <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=pydnb&theme=radical&layout=compact"  />
+
+<!--语言徽标展示：-->
+![decription](https://img.shields.io/badge/Language-C++-black)
