@@ -14,6 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--生成贪吃蛇动图：-->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="/output/github-snake.svg">
+  <img alt="github-snake" src="/output/github-snake.svg">
+</picture>
+
+
+
+
+
 <!--状态展示：-->
 <img align="center"  src="https://github-readme-stats.vercel.app/api?username=pydnb&show_icons=true&theme=radical"/>
 
