@@ -22,3 +22,5 @@ Here are some ideas to get you started:
 
 <!--语言徽标展示：-->
 ![decription](https://img.shields.io/badge/Language-C++-black)
+![decription](https://img.shields.io/badge/Language-Python-red)
+![decription](https://img.shields.io/badge/Language-Java-green)
