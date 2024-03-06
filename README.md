@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 ![decription](https://img.shields.io/badge/Language-Python-red)
 ![decription](https://img.shields.io/badge/Language-Java-green)
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=欢迎;消息2&font=Roboto" />
+<img src="https://readme-typing-svg.herokuapp.com/?lines=欢迎来到我的github;消息2&font=Roboto" />
